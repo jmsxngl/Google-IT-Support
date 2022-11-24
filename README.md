@@ -25,8 +25,6 @@
 - Software
 - Troubleshooting
 
-`Approx. 20 hours`
-
 
 ## [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking?specialization=google-it-support)
 - Introduction to Networking
@@ -35,8 +33,6 @@
 - Networking Services
 - Connecting to the Internet
 - Troubleshooting and the Future of Networking
-
-`Approx. 27 hours`
 
 
 ## [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
@@ -47,8 +43,6 @@
 - Process Management
 - Operating Systems in Practice
 
-`Approx. 33 hours`
-
 
 ## [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services?specialization=google-it-support)
 - What is System Administration?
@@ -57,8 +51,6 @@
 - Directory Services
 - Data Recovery & Backups
 - Final Project
-
-`Approx. 26 hours`
 
 
 ## [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security?specialization=google-it-support)
@@ -69,5 +61,3 @@
 - Defense in Depth
 - Creating a Company Culture for Security
 - Prepare for Jobs in IT Support
-
-`Approx. 31 hours`
